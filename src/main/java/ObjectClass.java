@@ -6,6 +6,8 @@ import org.openqa.selenium.support.PageFactory;
 
 import java.util.concurrent.TimeUnit;
 
+
+//object class for TestNg_Project
 public class ObjectClass  {
 
     WebDriver dri;
